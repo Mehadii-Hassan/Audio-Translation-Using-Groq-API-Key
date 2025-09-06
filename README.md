@@ -81,15 +81,6 @@ python demo.py
 
 <hr>
 
-<h2>📸 Screenshots</h2>
-
-<p align="center">
-  <img src="https://via.placeholder.com/800x400?text=Upload+Audio+UI" alt="Web UI Screenshot">
-</p>
-
-
-<hr>
-
 <h2>🙌 Credits</h2>
 
 <p>
